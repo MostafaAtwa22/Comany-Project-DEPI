@@ -1,0 +1,37 @@
+﻿@model Employee
+
+@{
+    ViewData["Title"] = Model.Name;
+}
+
+<div class="card border-success rounded-4 mt-5 overflow-hidden">
+    <div class="card-body p-0">
+        <div class="row">
+            <div class="col-md-8 px-5 py-4 d-flex flex-column justify-content-between">
+                <div>
+                    <h1 class="text-success fw-bolder">@Model.Name</h1>
+                    <div class="badge bg-info fs-5 mb-4">@Model.Department?.Name</div>
+                    <div class="badge bg-info fs-5 mb-4">@Model.Age</div>
+                    <div class="badge bg-info fs-5 mb-4">@Model.Salary</div>
+                    <div class="badge bg-info fs-5 mb-4">@Model.Address</div>
+                </div>
+                <div>
+                    @if (Model.Projects != null && Model.Projects.Any())
+                    {
+                        foreach (Project project in Model.Projects)
+                        {
+                            <div class="badge bg-info fs-5 mb-4">@project.Name</div>
+                        }
+                    }
+                    else
+                    {
+                        <div class="badge bg-secondary fs-5 mb-4">No Projects Assigned</div>
+                    }
+                </div>
+            </div>
+            <div class="col-md-4">
+                <img src="@($"{FileSettings.ImagesPath}/{Model.Image}")" alt="@Model.Name" class="w-100" />
+            </div>
+        </div>
+    </div>
+</div>

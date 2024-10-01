@@ -1,0 +1,51 @@
+﻿@model IEnumerable<Project>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<a class="btn btn-secondary btn-lg" asp-action="Create">
+    <i class="bi bi-plus-circle-dotted"></i>
+    Add Project
+</a>
+
+@if (!Model.Any())
+{
+    <div class="alert alert-warning mt-5">
+        <h4 class="alert-heading">No Projects!</h4>
+        <p class="mb-0">No Projects were added yet.</p>
+    </div>
+}
+else
+{
+    <div class="mt-5">
+        <table class="table table-bordered border-primary">
+            <tbody>
+                @foreach (var proj in Model)
+                {
+                    <tr class="border-1 border-success">
+                        <td>
+                            <div class="d-flex">
+                                <div class="d-flex flex-column justify-content-center">
+                                    <h4 class="text-dark">@proj.Name</h4>
+                                    <h4 class="text-dark">@proj.Budget</h4>
+                                    <h4 class="text-dark">@proj.Location</h4>
+                                    <h5>@proj.Department?.Name</h5>
+                                </div>
+                            </div>
+                        </td>
+                        <td class="align-middle">
+                            <div class="d-flex justify-content-end">
+                                <a class="btn btn-info rounded rounded-3 me-2" asp-action="Edit" asp-route-id="@proj.Id">
+                                    <i class="bi bi-pencil-fill"></i>
+                                </a>
+                                <a class="btn btn-danger rounded rounded-3 me-2" asp-action="Delete" asp-route-id="@proj.Id">
+                                    <i class="bi bi-trash-fill"></i>
+                                </a>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+}

@@ -1,0 +1,80 @@
+﻿@model CreateEmployeeVM
+
+@{
+    ViewData["Title"] = "ADD Employee";
+}
+
+<h5>
+    <i class="bi bi-plus-circle-dotted"></i>
+    Add a new Employee
+</h5>
+
+<form asp-action="Create" enctype="multipart/form-data">
+    <div class="row">
+        <div class="col-md-6">
+            <div class="form-group">
+                <label asp-for="Name" class="form-label mt-4"></label>
+                <input type="text" class="form-control" asp-for="Name" placeholder="Name">
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Salary" class="form-label mt-4"></label>
+                <input class="form-control" asp-for="Salary" placeholder="Salary" value="">
+                <span asp-validation-for="Salary" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Age" class="form-label mt-4"></label>
+                <input class="form-control" asp-for="Age" placeholder="Age" value="">
+                <span asp-validation-for="Age" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Address" class="form-label mt-4"></label>
+                <input type="text" class="form-control" asp-for="Address" placeholder="Address">
+                <span asp-validation-for="Address" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Gender" class="form-label mt-4"></label>
+                <select class="form-select" asp-for="Gender" asp-items="Model.GenderSelectList">
+                    <option value="">Select Gender</option>
+                </select>
+                <span asp-validation-for="Gender" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DepartmentId" class="form-label mt-4"></label>
+                <select class="form-select" asp-for="DepartmentId" asp-items="Model.Departments"
+                        data-placeholder="Select a Department" data-minimum-results-for-search="Infinity">
+                    <option value=""></option>
+                </select>
+                <span asp-validation-for="DepartmentId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SelectedProjects" class="form-label mt-4"></label>
+                <select class="form-select" asp-for="SelectedProjects" asp-items="Model.Projects"
+                        data-placeholder="Select projects" multiple>
+                    <option></option>
+                </select>
+                <span asp-validation-for="SelectedProjects" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Image" class="form-label mt-4"></label>
+                <input type="file" class="form-control" asp-for="Image"
+                       data-rule-extension="@FileSettings.AllowedExtensions.Replace(".", string.Empty)"
+                       data-msg-extension="Not allowed extension"
+                       data-rule-filesize="@FileSettings.MaxFileSizeInBytes"
+                       data-msg-filesize="Maximum allowed size is @FileSettings.MaxFileSizeInMB MB">
+                <small class="form-text text-muted">Only @FileSettings.AllowedExtensions files are allowed with max size @(FileSettings.MaxFileSizeInMB)MB.</small>
+                <span asp-validation-for="Image" class="text-danger d-block"></span>
+            </div>
+            <button type="submit" class="btn btn-light text-black mt-4">Save</button>
+        </div>
+        <div class="col-md-6 d-flex justify-content-center pt-4 overflow-hidden">
+            <img class="cover-preview d-none" alt="Image" />
+        </div>
+    </div>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+    <script src="~/js/employee-form.js" asp-append-version="true"></script>
+    <script src="~/js/filesize-validator.js" asp-append-version="true"></script>
+}
