@@ -43,7 +43,15 @@ namespace DEPI_Final_Project.Repositories
                 ManagerId = model.ManagerId,
                 Name = model.Name,
             };
+
             _context.Add(Department);
+            await _context.SaveChangesAsync();
+
+            // change the Manager Department
+            var manager = _context.Employees.Find(model.ManagerId);
+            var department = _context.Departments.SingleOrDefault(d => d.Name == Department.Name);
+            manager!.DepartmentId = department!.Id;
+
             await _context.SaveChangesAsync();
         }
 

@@ -1,10 +1,10 @@
 ﻿using DEPI_Final_Project.Data.Configurations;
 using DEPI_Final_Project.Models;
-using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 
 namespace DEPI_Final_Project.Data
 {
-    public class ApplicationDbContext : DbContext
+    public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {
         public ApplicationDbContext()
         {

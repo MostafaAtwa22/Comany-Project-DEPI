@@ -14,40 +14,40 @@
         <div class="col-md-6">
             <div class="form-group">
                 <label asp-for="Name" class="form-label mt-4"></label>
-                <input type="text" class="form-control" asp-for="Name" placeholder="Name">
+                <input class="form-control" asp-for="Name">
                 <span asp-validation-for="Name" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Salary" class="form-label mt-4"></label>
-                <input type="number" class="form-control" asp-for="Salary" placeholder="Salary" step="0.01">
+                <input type="number" class="form-control" asp-for="Salary" placeholder="Salary">
                 <span asp-validation-for="Salary" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Age" class="form-label mt-4"></label>
-                <input type="number" class="form-control" asp-for="Age" placeholder="Age">
+                <input type="number" class="form-control" asp-for="Age">
                 <span asp-validation-for="Age" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Address" class="form-label mt-4"></label>
-                <input type="text" class="form-control" asp-for="Address" placeholder="Address">
+                <input class="form-control" asp-for="Address">
                 <span asp-validation-for="Address" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Gender" class="form-label mt-4"></label>
-                <select class="form-select" asp-for="Gender" asp-items="Model.GenderSelectList" placeholder="Select Gender">
+                <select class="form-select" asp-for="Gender" asp-items="Model.GenderSelectList">
                 </select>
                 <span asp-validation-for="Gender" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="DepartmentId" class="form-label mt-4"></label>
-                <select class="form-select" asp-for="DepartmentId" asp-items="Model.Departments" data-placeholder="Select a Department">
+                <select class="form-select" asp-for="DepartmentId" asp-items="Model.Departments">
                     <option value="">Select a Department</option> <!-- Added a default option -->
                 </select>
                 <span asp-validation-for="DepartmentId" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="SelectedProjects" class="form-label mt-4"></label>
-                <select class="form-select" asp-for="SelectedProjects" asp-items="Model.Projects" data-placeholder="Select Project">
+                <select class="form-select" asp-for="SelectedProjects" asp-items="Model.Projects">
                     <option></option>
                 </select>
                 <span asp-validation-for="SelectedProjects" class="text-danger"></span>

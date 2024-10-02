@@ -3,11 +3,13 @@ using DEPI_Final_Project.Repositories;
 using DEPI_Final_Project.Repositories.Interfaces;
 using DEPI_Final_Project.ViewModels;
 using DEPI_Final_Project.ViewModels.DependentVM;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace DEPI_Final_Project.Controllers
 {
+    [Authorize]
     public class DependentController : Controller
     {
         private readonly IEmployeeRepository _employeeRepository;

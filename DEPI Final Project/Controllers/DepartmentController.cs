@@ -3,11 +3,13 @@ using DEPI_Final_Project.Models.Enums;
 using DEPI_Final_Project.Repositories.Interfaces;
 using DEPI_Final_Project.ViewModels;
 using DEPI_Final_Project.ViewModels.DepartmentVM;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace DEPI_Final_Project.Controllers
 {
+    [Authorize]
     public class DepartmentController : Controller
     {
         private readonly IDepartmentRepository _departmentRepository;

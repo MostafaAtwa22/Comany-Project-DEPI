@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "O6qcuR7zgACoMJH6uvMz9c1HoWKbUb36JnbOzmgkk/k=",
+  "Hash": "xAF8X/2VdegE/LK+PqgN8pJ9jbQHC3XMIfG6s5833QA=",
   "Source": "DEPI Final Project",
   "BasePath": "_content/DEPI Final Project",
   "Mode": "Default",
@@ -188,6 +188,25 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\b7acb613-450e-4f18-8e0d-cbc1a136ea01.jpeg"
     },
     {
+      "Identity": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\wwwroot\\assets\\images\\ba408262-7a8c-4864-a487-bdb4d6aee65b.png",
+      "SourceId": "DEPI Final Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\wwwroot\\",
+      "BasePath": "_content/DEPI Final Project",
+      "RelativePath": "assets/images/ba408262-7a8c-4864-a487-bdb4d6aee65b.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\ba408262-7a8c-4864-a487-bdb4d6aee65b.png"
+    },
+    {
       "Identity": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\wwwroot\\assets\\images\\be6c3cd8-14fd-4043-86f5-062426bcec00.jpeg",
       "SourceId": "DEPI Final Project",
       "SourceType": "Discovered",
@@ -207,6 +226,25 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\be6c3cd8-14fd-4043-86f5-062426bcec00.jpeg"
     },
     {
+      "Identity": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\wwwroot\\assets\\images\\d298d97e-9119-4c23-bc8a-be229dba9ff4.jpeg",
+      "SourceId": "DEPI Final Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\wwwroot\\",
+      "BasePath": "_content/DEPI Final Project",
+      "RelativePath": "assets/images/d298d97e-9119-4c23-bc8a-be229dba9ff4.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\d298d97e-9119-4c23-bc8a-be229dba9ff4.jpeg"
+    },
+    {
       "Identity": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\wwwroot\\assets\\images\\d74cabac-3f5d-4685-b46c-d96f6562163a.jpeg",
       "SourceId": "DEPI Final Project",
       "SourceType": "Discovered",
@@ -224,6 +262,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\d74cabac-3f5d-4685-b46c-d96f6562163a.jpeg"
+    },
+    {
+      "Identity": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\wwwroot\\assets\\images\\daa97dc2-5732-4d9f-b5fa-792e88857bf7.jpeg",
+      "SourceId": "DEPI Final Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\wwwroot\\",
+      "BasePath": "_content/DEPI Final Project",
+      "RelativePath": "assets/images/daa97dc2-5732-4d9f-b5fa-792e88857bf7.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\daa97dc2-5732-4d9f-b5fa-792e88857bf7.jpeg"
     },
     {
       "Identity": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\wwwroot\\assets\\images\\e86625c3-99f7-4a2c-a4fd-7999f03433aa.jpeg",

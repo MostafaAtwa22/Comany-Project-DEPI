@@ -252,3 +252,9 @@ D:\programming\DEPI\DEPI Final Project\DEPI Final Project\bin\Debug\net8.0\runti
 D:\programming\DEPI\DEPI Final Project\DEPI Final Project\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 D:\programming\DEPI\DEPI Final Project\DEPI Final Project\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 D:\programming\DEPI\DEPI Final Project\DEPI Final Project\obj\Debug\net8.0\DEPI Final Project.sourcelink.json
+D:\programming\DEPI\DEPI Final Project\DEPI Final Project\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\programming\DEPI\DEPI Final Project\DEPI Final Project\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\programming\DEPI\DEPI Final Project\DEPI Final Project\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\programming\DEPI\DEPI Final Project\DEPI Final Project\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\programming\DEPI\DEPI Final Project\DEPI Final Project\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\programming\DEPI\DEPI Final Project\DEPI Final Project\bin\Debug\net8.0\Microsoft.Extensions.Options.dll

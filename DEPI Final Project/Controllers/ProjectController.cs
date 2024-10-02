@@ -1,9 +1,11 @@
 ﻿using DEPI_Final_Project.Repositories.Interfaces;
 using DEPI_Final_Project.ViewModels.ProjectVM;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace DEPI_Final_Project.Controllers
 {
+    [Authorize]
     public class ProjectController : Controller
     {
         private readonly IProjectRepository _projectRepository;

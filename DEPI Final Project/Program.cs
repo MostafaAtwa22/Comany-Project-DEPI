@@ -2,7 +2,9 @@ using DEPI_Final_Project.Data;
 using DEPI_Final_Project.Data.Configurations;
 using DEPI_Final_Project.Repositories.Interfaces;
 using DEPI_Final_Project.Repositories;
-using Microsoft.EntityFrameworkCore;
+using DEPI_Final_Project.Models;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.Extensions.DependencyInjection;
 
 namespace DEPI_Final_Project
 {
@@ -22,6 +24,15 @@ namespace DEPI_Final_Project
                 .AddInterceptors(new SoftDeleteInterceptor());
             });
 
+            builder.Services.AddIdentity<ApplicationUser, IdentityRole>(options =>
+            {
+                options.Password.RequireLowercase = true;
+                options.Password.RequireUppercase = true;
+                options.Password.RequireDigit = true;
+            })
+            .AddEntityFrameworkStores<ApplicationDbContext>();
+
+
             builder.Services.AddScoped<IEmployeeRepository, EmployeeRepository>();
             builder.Services.AddScoped<IDepartmentRepository, DepartmentRepository>();
             builder.Services.AddScoped<IProjectRepository, ProjectRepository>();
@@ -39,6 +50,8 @@ namespace DEPI_Final_Project
             app.UseStaticFiles();
 
             app.UseRouting();
+
+            app.UseAuthentication();
 
             app.UseAuthorization();
 

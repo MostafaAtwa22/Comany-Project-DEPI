@@ -3,9 +3,7 @@ using DEPI_Final_Project.Models.Enums;
 using DEPI_Final_Project.Models;
 using DEPI_Final_Project.Repositories.Interfaces;
 using DEPI_Final_Project.Settings;
-using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Mvc.Rendering;
-using DEPI_Final_Project.ViewModels.EmployeeVM;
 
 namespace DEPI_Final_Project.Repositories
 {
@@ -69,6 +67,7 @@ namespace DEPI_Final_Project.Repositories
             Employee employee = new Employee
             {
                 Name = model.Name,
+                Address = model.Address,
                 DepartmentId = model.DepartmentId,
                 Gender = (Gender)model.Gender,
                 Age = model.Age,
