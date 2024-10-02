@@ -1,0 +1,38 @@
+﻿@model EditDepartmentVM
+
+@{
+    ViewData["Title"] = "Edit Department";
+}
+
+<h5>
+    <i class="bi bi-pencil-square"></i>
+    Edit Department
+</h5>
+
+<form asp-action="Edit" enctype="multipart/form-data">
+    <div class="row">
+        <div class="col-md-6">
+            <div class="form-group">
+                <label asp-for="Name" class="form-label mt-4"></label>
+                <input type="text" class="form-control" asp-for="Name" placeholder="Name">
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Location" class="form-label mt-4"></label>
+                <input class="form-control" asp-for="Location">
+                <span asp-validation-for="Location" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ManagerId" class="form-label mt-4"></label>
+                <select class="form-select" asp-for="ManagerId" asp-items="Model.ManagersSelectList">
+                </select>
+                <span asp-validation-for="ManagerId" class="text-danger"></span>
+            </div>
+            <button type="submit" class="btn btn-light text-black mt-4">Save</button>
+        </div>
+    </div>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

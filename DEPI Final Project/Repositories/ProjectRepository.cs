@@ -3,7 +3,7 @@ using DEPI_Final_Project.Repositories.Interfaces;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using DEPI_Final_Project.Models;
-using DEPI_Final_Project.ViewModels;
+using DEPI_Final_Project.ViewModels.ProjectVM;
 
 namespace DEPI_Final_Project.Repositories
 {
@@ -52,7 +52,8 @@ namespace DEPI_Final_Project.Repositories
 
         public bool Delete(int id)
         {
-            var project = GetById(id);
+            var project = _context.Projects
+                .SingleOrDefault(p => p.Id == id);
 
             if (project is null)
                 return false;

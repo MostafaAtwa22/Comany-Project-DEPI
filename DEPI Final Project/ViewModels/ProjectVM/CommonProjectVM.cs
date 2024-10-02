@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc.Rendering;
 using System.ComponentModel.DataAnnotations;
 
-namespace DEPI_Final_Project.ViewModels
+namespace DEPI_Final_Project.ViewModels.ProjectVM
 {
     public class CommonProjectVM
     {

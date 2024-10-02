@@ -3,8 +3,9 @@ using DEPI_Final_Project.Models.Enums;
 using DEPI_Final_Project.Models;
 using DEPI_Final_Project.Repositories.Interfaces;
 using DEPI_Final_Project.Settings;
-using DEPI_Final_Project.ViewModels;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Mvc.Rendering;
+using DEPI_Final_Project.ViewModels.EmployeeVM;
 
 namespace DEPI_Final_Project.Repositories
 {
@@ -21,6 +22,31 @@ namespace DEPI_Final_Project.Repositories
             _webHostEnvironment = webHostEnvironment;
             _imagesPath = $"{_webHostEnvironment.WebRootPath}{FileSettings.ImagesPath}";
         }
+
+        public IEnumerable<SelectListItem> GetUnassignedManagers()
+            => _context.Employees
+            .Where(e => !_context.Departments.Any(d => d.ManagerId == e.Id))
+            .Select(d => new SelectListItem { Text = d.Name, Value = d.Id.ToString() })
+            .OrderBy(d => d.Text)
+            .AsNoTracking()
+            .ToList();
+
+        public IEnumerable<SelectListItem> GetManagersForEdit(int? currentManagerId)
+                => _context.Employees
+                .Where(e => !_context.Departments.Any(d => d.ManagerId == e.Id) || e.Id == currentManagerId)
+                .Select(e => new SelectListItem
+                {
+                    Text = e.Name,
+                    Value = e.Id.ToString()
+                })
+                .ToList();
+
+        public IEnumerable<SelectListItem> GetSelectList()
+            => _context.Employees
+            .Select(d => new SelectListItem { Text = d.Name, Value = d.Id.ToString() })
+            .OrderBy(d => d.Text)
+            .AsNoTracking()
+            .ToList();
 
         public IEnumerable<Employee> GetAll()
             => _context.Employees
@@ -60,7 +86,6 @@ namespace DEPI_Final_Project.Repositories
             _context.Employees.Add(employee);
             _context.SaveChanges();
         }
-
 
         public async Task<Employee?> Update(EditEmployeeVM model)
         {
@@ -115,7 +140,8 @@ namespace DEPI_Final_Project.Repositories
         public bool Delete(int id)
         {
             var isDeleted = false;
-            var employee = GetById(id);
+            var employee = _context.Employees
+                .Find(id);
 
             if (employee is null)
                 return false;

@@ -1,0 +1,12 @@
+﻿@model IEnumerable<Dependent>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<a class="btn btn-secondary btn-lg" asp-action="Create">
+    <i class="bi bi-plus-circle-dotted"></i>
+    Add Dependent
+</a>
+
+<partial name="_DependetDisplayPartial" model="@Model"></partial>

@@ -26,6 +26,38 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\programming\DEPI\DEPI Final Project\DEPI Final Project
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/programming/DEPI/DEPI Final Project/DEPI Final Project/Views/Department/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/programming/DEPI/DEPI Final Project/DEPI Final Project/Views/Department/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/programming/DEPI/DEPI Final Project/DEPI Final Project/Views/Department/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/programming/DEPI/DEPI Final Project/DEPI Final Project/Views/Department/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/programming/DEPI/DEPI Final Project/DEPI Final Project/Views/Dependent/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwZW5kZW50XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/programming/DEPI/DEPI Final Project/DEPI Final Project/Views/Dependent/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwZW5kZW50XERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/programming/DEPI/DEPI Final Project/DEPI Final Project/Views/Dependent/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwZW5kZW50XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/programming/DEPI/DEPI Final Project/DEPI Final Project/Views/Dependent/_DependetDisplayPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwZW5kZW50XF9EZXBlbmRldERpc3BsYXlQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/programming/DEPI/DEPI Final Project/DEPI Final Project/Views/Employee/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

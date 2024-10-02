@@ -3,124 +3,100 @@
   "WorkspaceRootPath": "D:\\programming\\DEPI\\DEPI Final Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|d:\\programming\\depi\\depi final project\\depi final project\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|solutionrelative:depi final project\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|d:\\programming\\depi\\depi final project\\depi final project\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|solutionrelative:depi final project\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|d:\\programming\\depi\\depi final project\\depi final project\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|solutionrelative:depi final project\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|d:\\programming\\depi\\depi final project\\depi final project\\repositories\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|solutionrelative:depi final project\\repositories\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|d:\\programming\\depi\\depi final project\\depi final project\\views\\project\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|solutionrelative:depi final project\\views\\project\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|d:\\programming\\depi\\depi final project\\depi final project\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|solutionrelative:depi final project\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|d:\\programming\\depi\\depi final project\\depi final project\\views\\project\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|solutionrelative:depi final project\\views\\project\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|d:\\programming\\depi\\depi final project\\depi final project\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|solutionrelative:depi final project\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|d:\\programming\\depi\\depi final project\\depi final project\\viewmodels\\createprojectvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|solutionrelative:depi final project\\viewmodels\\createprojectvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|d:\\programming\\depi\\depi final project\\depi final project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|solutionrelative:depi final project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|d:\\programming\\depi\\depi final project\\depi final project\\views\\project\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|solutionrelative:depi final project\\views\\project\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|d:\\programming\\depi\\depi final project\\depi final project\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|solutionrelative:depi final project\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|d:\\programming\\depi\\depi final project\\depi final project\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|solutionrelative:depi final project\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|d:\\programming\\depi\\depi final project\\depi final project\\viewmodels\\createemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|solutionrelative:depi final project\\viewmodels\\createemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|d:\\programming\\depi\\depi final project\\depi final project\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|solutionrelative:depi final project\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|d:\\programming\\depi\\depi final project\\depi final project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|solutionrelative:depi final project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|d:\\programming\\depi\\depi final project\\depi final project\\viewmodels\\commonprojectvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|solutionrelative:depi final project\\viewmodels\\commonprojectvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|d:\\programming\\depi\\depi final project\\depi final project\\views\\dependent\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|solutionrelative:depi final project\\views\\dependent\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|d:\\programming\\depi\\depi final project\\depi final project\\repositories\\interfaces\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|solutionrelative:depi final project\\repositories\\interfaces\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|d:\\programming\\depi\\depi final project\\depi final project\\views\\dependent\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|solutionrelative:depi final project\\views\\dependent\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|d:\\programming\\depi\\depi final project\\depi final project\\viewmodels\\editprojectvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|solutionrelative:depi final project\\viewmodels\\editprojectvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|d:\\programming\\depi\\depi final project\\depi final project\\views\\dependent\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|solutionrelative:depi final project\\views\\dependent\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|d:\\programming\\depi\\depi final project\\depi final project\\migrations\\20241001191906_add-buget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|solutionrelative:depi final project\\migrations\\20241001191906_add-buget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|d:\\programming\\depi\\depi final project\\depi final project\\views\\dependent\\_dependetdisplaypartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|solutionrelative:depi final project\\views\\dependent\\_dependetdisplaypartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|d:\\programming\\depi\\depi final project\\depi final project\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|solutionrelative:depi final project\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|d:\\programming\\depi\\depi final project\\depi final project\\repositories\\dependentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|solutionrelative:depi final project\\repositories\\dependentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|d:\\programming\\depi\\depi final project\\depi final project\\repositories\\interfaces\\idependentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|solutionrelative:depi final project\\repositories\\interfaces\\idependentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|d:\\programming\\depi\\depi final project\\depi final project\\controllers\\dependentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|solutionrelative:depi final project\\controllers\\dependentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|d:\\programming\\depi\\depi final project\\depi final project\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|solutionrelative:depi final project\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|d:\\programming\\depi\\depi final project\\depi final project\\repositories\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|solutionrelative:depi final project\\repositories\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|d:\\programming\\depi\\depi final project\\depi final project\\wwwroot\\js\\employees-index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|solutionrelative:depi final project\\wwwroot\\js\\employees-index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|d:\\programming\\depi\\depi final project\\depi final project\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|solutionrelative:depi final project\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|d:\\programming\\depi\\depi final project\\depi final project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|solutionrelative:depi final project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|d:\\programming\\depi\\depi final project\\depi final project\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|solutionrelative:depi final project\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|d:\\programming\\depi\\depi final project\\depi final project\\models\\employeeprojects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|solutionrelative:depi final project\\models\\employeeprojects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|d:\\programming\\depi\\depi final project\\depi final project\\viewmodels\\departmentvm\\editdepartmentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|solutionrelative:depi final project\\viewmodels\\departmentvm\\editdepartmentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|d:\\programming\\depi\\depi final project\\depi final project\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|solutionrelative:depi final project\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|d:\\programming\\depi\\depi final project\\depi final project\\viewmodels\\departmentvm\\commondepartmentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|solutionrelative:depi final project\\viewmodels\\departmentvm\\commondepartmentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|d:\\programming\\depi\\depi final project\\depi final project\\settings\\filesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|solutionrelative:depi final project\\settings\\filesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|d:\\programming\\depi\\depi final project\\depi final project\\viewmodels\\departmentvm\\createdepartmentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|solutionrelative:depi final project\\viewmodels\\departmentvm\\createdepartmentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|d:\\programming\\depi\\depi final project\\depi final project\\wwwroot\\js\\filesize-validator.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|solutionrelative:depi final project\\wwwroot\\js\\filesize-validator.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|d:\\programming\\depi\\depi final project\\depi final project\\viewmodels\\employeevm\\editemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|solutionrelative:depi final project\\viewmodels\\employeevm\\editemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|d:\\programming\\depi\\depi final project\\depi final project\\wwwroot\\js\\employee-form.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|solutionrelative:depi final project\\wwwroot\\js\\employee-form.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|d:\\programming\\depi\\depi final project\\depi final project\\viewmodels\\employeevm\\commonemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|solutionrelative:depi final project\\viewmodels\\employeevm\\commonemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|d:\\programming\\depi\\depi final project\\depi final project\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|solutionrelative:depi final project\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|d:\\programming\\depi\\depi final project\\depi final project\\repositories\\interfaces\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|solutionrelative:depi final project\\repositories\\interfaces\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|d:\\programming\\depi\\depi final project\\depi final project\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|solutionrelative:depi final project\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|d:\\programming\\depi\\depi final project\\depi final project\\repositories\\interfaces\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|solutionrelative:depi final project\\repositories\\interfaces\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|d:\\programming\\depi\\depi final project\\depi final project\\viewmodels\\employeevm\\createemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|solutionrelative:depi final project\\viewmodels\\employeevm\\createemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|d:\\programming\\depi\\depi final project\\depi final project\\viewmodels\\dependentvm\\editdependentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|solutionrelative:depi final project\\viewmodels\\dependentvm\\editdependentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|d:\\programming\\depi\\depi final project\\depi final project\\viewmodels\\dependentvm\\createdependentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5AA4A1A-2241-4F70-9D6F-22B995FA1E2F}|DEPI Final Project\\DEPI Final Project.csproj|solutionrelative:depi final project\\viewmodels\\dependentvm\\createdependentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -130,415 +106,314 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "DEPI Final Project\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "DEPI Final Project\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T16:28:21.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "DEPI Final Project\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "DEPI Final Project\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T16:26:12.961Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EmployeeRepository.cs",
-              "DocumentMoniker": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Repositories\\EmployeeRepository.cs",
-              "RelativeDocumentMoniker": "DEPI Final Project\\Repositories\\EmployeeRepository.cs",
-              "ToolTip": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Repositories\\EmployeeRepository.cs",
-              "RelativeToolTip": "DEPI Final Project\\Repositories\\EmployeeRepository.cs",
-              "ViewState": "AgIAAIwAAAAAAAAAAADwv3YAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T20:06:39.028Z",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DEPI Final Project\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DEPI Final Project\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAADwvzsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T16:13:12.178Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProjectController.cs",
-              "DocumentMoniker": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Controllers\\ProjectController.cs",
-              "RelativeDocumentMoniker": "DEPI Final Project\\Controllers\\ProjectController.cs",
-              "ToolTip": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Controllers\\ProjectController.cs",
-              "RelativeToolTip": "DEPI Final Project\\Controllers\\ProjectController.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAkwCgAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T19:05:40.559Z",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Views\\Dependent\\Details.cshtml",
+              "RelativeDocumentMoniker": "DEPI Final Project\\Views\\Dependent\\Details.cshtml",
+              "ToolTip": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Views\\Dependent\\Details.cshtml",
+              "RelativeToolTip": "DEPI Final Project\\Views\\Dependent\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T16:10:52.808Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Views\\Employee\\Create.cshtml",
-              "RelativeDocumentMoniker": "DEPI Final Project\\Views\\Employee\\Create.cshtml",
-              "ToolTip": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Views\\Employee\\Create.cshtml",
-              "RelativeToolTip": "DEPI Final Project\\Views\\Employee\\Create.cshtml",
-              "ViewState": "AgIAADkAAAAAAAAAAADwvzQAAAA+AAAAAAAAAA==",
+              "DocumentMoniker": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Views\\Dependent\\Create.cshtml",
+              "RelativeDocumentMoniker": "DEPI Final Project\\Views\\Dependent\\Create.cshtml",
+              "ToolTip": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Views\\Dependent\\Create.cshtml",
+              "RelativeToolTip": "DEPI Final Project\\Views\\Dependent\\Create.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-01T17:42:35.466Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Views\\Employee\\Edit.cshtml",
-              "RelativeDocumentMoniker": "DEPI Final Project\\Views\\Employee\\Edit.cshtml",
-              "ToolTip": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Views\\Employee\\Edit.cshtml",
-              "RelativeToolTip": "DEPI Final Project\\Views\\Employee\\Edit.cshtml",
-              "ViewState": "AgIAADMAAAAAAAAAAADwv00AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-01T18:18:54.375Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Views\\Project\\Index.cshtml",
-              "RelativeDocumentMoniker": "DEPI Final Project\\Views\\Project\\Index.cshtml",
-              "ToolTip": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Views\\Project\\Index.cshtml",
-              "RelativeToolTip": "DEPI Final Project\\Views\\Project\\Index.cshtml",
-              "ViewState": "AgIAABkAAAAAAAAAAADwvysAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-01T19:42:26.882Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProjectRepository.cs",
-              "DocumentMoniker": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Repositories\\ProjectRepository.cs",
-              "RelativeDocumentMoniker": "DEPI Final Project\\Repositories\\ProjectRepository.cs",
-              "ToolTip": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Repositories\\ProjectRepository.cs",
-              "RelativeToolTip": "DEPI Final Project\\Repositories\\ProjectRepository.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAA/wD8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T16:46:01.679Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Views\\Project\\Edit.cshtml",
-              "RelativeDocumentMoniker": "DEPI Final Project\\Views\\Project\\Edit.cshtml",
-              "ToolTip": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Views\\Project\\Edit.cshtml",
-              "RelativeToolTip": "DEPI Final Project\\Views\\Project\\Edit.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-01T19:59:12.73Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CreateProjectVM.cs",
-              "DocumentMoniker": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\ViewModels\\CreateProjectVM.cs",
-              "RelativeDocumentMoniker": "DEPI Final Project\\ViewModels\\CreateProjectVM.cs",
-              "ToolTip": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\ViewModels\\CreateProjectVM.cs",
-              "RelativeToolTip": "DEPI Final Project\\ViewModels\\CreateProjectVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAswAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T19:07:11.16Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "DEPI Final Project\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "DEPI Final Project\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T19:46:41.193Z",
+              "WhenOpened": "2024-10-02T16:10:49.658Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Views\\Project\\Create.cshtml",
-              "RelativeDocumentMoniker": "DEPI Final Project\\Views\\Project\\Create.cshtml",
-              "ToolTip": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Views\\Project\\Create.cshtml",
-              "RelativeToolTip": "DEPI Final Project\\Views\\Project\\Create.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAABVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-01T19:51:26.113Z",
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "DEPI Final Project\\GlobalUsings.cs",
+              "ToolTip": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\GlobalUsings.cs",
+              "RelativeToolTip": "DEPI Final Project\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T15:47:37.807Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CreateEmployeeVM.cs",
-              "DocumentMoniker": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\ViewModels\\CreateEmployeeVM.cs",
-              "RelativeDocumentMoniker": "DEPI Final Project\\ViewModels\\CreateEmployeeVM.cs",
-              "ToolTip": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\ViewModels\\CreateEmployeeVM.cs",
-              "RelativeToolTip": "DEPI Final Project\\ViewModels\\CreateEmployeeVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "DependentController.cs",
+              "DocumentMoniker": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Controllers\\DependentController.cs",
+              "RelativeDocumentMoniker": "DEPI Final Project\\Controllers\\DependentController.cs",
+              "ToolTip": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Controllers\\DependentController.cs",
+              "RelativeToolTip": "DEPI Final Project\\Controllers\\DependentController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwEgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T18:09:57.56Z",
+              "WhenOpened": "2024-10-02T15:34:38.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDependentRepository.cs",
+              "DocumentMoniker": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Repositories\\Interfaces\\IDependentRepository.cs",
+              "RelativeDocumentMoniker": "DEPI Final Project\\Repositories\\Interfaces\\IDependentRepository.cs",
+              "ToolTip": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Repositories\\Interfaces\\IDependentRepository.cs",
+              "RelativeToolTip": "DEPI Final Project\\Repositories\\Interfaces\\IDependentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T15:43:12.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DependentRepository.cs",
+              "DocumentMoniker": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Repositories\\DependentRepository.cs",
+              "RelativeDocumentMoniker": "DEPI Final Project\\Repositories\\DependentRepository.cs",
+              "ToolTip": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Repositories\\DependentRepository.cs",
+              "RelativeToolTip": "DEPI Final Project\\Repositories\\DependentRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T15:38:16.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Views\\Dependent\\Index.cshtml",
+              "RelativeDocumentMoniker": "DEPI Final Project\\Views\\Dependent\\Index.cshtml",
+              "ToolTip": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Views\\Dependent\\Index.cshtml",
+              "RelativeToolTip": "DEPI Final Project\\Views\\Dependent\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T15:32:25.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_DependetDisplayPartial.cshtml",
+              "DocumentMoniker": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Views\\Dependent\\_DependetDisplayPartial.cshtml",
+              "RelativeDocumentMoniker": "DEPI Final Project\\Views\\Dependent\\_DependetDisplayPartial.cshtml",
+              "ToolTip": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Views\\Dependent\\_DependetDisplayPartial.cshtml",
+              "RelativeToolTip": "DEPI Final Project\\Views\\Dependent\\_DependetDisplayPartial.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T15:32:29.834Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Views\\Employee\\Index.cshtml",
-              "RelativeDocumentMoniker": "DEPI Final Project\\Views\\Employee\\Index.cshtml",
-              "ToolTip": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Views\\Employee\\Index.cshtml",
-              "RelativeToolTip": "DEPI Final Project\\Views\\Employee\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-01T17:05:08.49Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "CommonProjectVM.cs",
-              "DocumentMoniker": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\ViewModels\\CommonProjectVM.cs",
-              "RelativeDocumentMoniker": "DEPI Final Project\\ViewModels\\CommonProjectVM.cs",
-              "ToolTip": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\ViewModels\\CommonProjectVM.cs",
-              "RelativeToolTip": "DEPI Final Project\\ViewModels\\CommonProjectVM.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAYwBAAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T19:16:53.771Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Views\\Employee\\Details.cshtml",
-              "RelativeDocumentMoniker": "DEPI Final Project\\Views\\Employee\\Details.cshtml",
-              "ToolTip": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Views\\Employee\\Details.cshtml",
-              "RelativeToolTip": "DEPI Final Project\\Views\\Employee\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-01T17:27:19.68Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "DEPI Final Project\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "DEPI Final Project\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAACMAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-01T16:52:39.185Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "IProjectRepository.cs",
-              "DocumentMoniker": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Repositories\\Interfaces\\IProjectRepository.cs",
-              "RelativeDocumentMoniker": "DEPI Final Project\\Repositories\\Interfaces\\IProjectRepository.cs",
-              "ToolTip": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Repositories\\Interfaces\\IProjectRepository.cs",
-              "RelativeToolTip": "DEPI Final Project\\Repositories\\Interfaces\\IProjectRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T16:45:35.61Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "EditProjectVM.cs",
-              "DocumentMoniker": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\ViewModels\\EditProjectVM.cs",
-              "RelativeDocumentMoniker": "DEPI Final Project\\ViewModels\\EditProjectVM.cs",
-              "ToolTip": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\ViewModels\\EditProjectVM.cs",
-              "RelativeToolTip": "DEPI Final Project\\ViewModels\\EditProjectVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T19:08:15.546Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "20241001191906_add-buget.cs",
-              "DocumentMoniker": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Migrations\\20241001191906_add-buget.cs",
-              "RelativeDocumentMoniker": "DEPI Final Project\\Migrations\\20241001191906_add-buget.cs",
-              "ToolTip": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Migrations\\20241001191906_add-buget.cs",
-              "RelativeToolTip": "DEPI Final Project\\Migrations\\20241001191906_add-buget.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T19:19:06.61Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "DepartmentRepository.cs",
-              "DocumentMoniker": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Repositories\\DepartmentRepository.cs",
-              "RelativeDocumentMoniker": "DEPI Final Project\\Repositories\\DepartmentRepository.cs",
-              "ToolTip": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Repositories\\DepartmentRepository.cs",
-              "RelativeToolTip": "DEPI Final Project\\Repositories\\DepartmentRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T16:46:00.993Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
               "Title": "IEmployeeRepository.cs",
               "DocumentMoniker": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Repositories\\Interfaces\\IEmployeeRepository.cs",
               "RelativeDocumentMoniker": "DEPI Final Project\\Repositories\\Interfaces\\IEmployeeRepository.cs",
               "ToolTip": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Repositories\\Interfaces\\IEmployeeRepository.cs",
               "RelativeToolTip": "DEPI Final Project\\Repositories\\Interfaces\\IEmployeeRepository.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAwAgAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T16:35:50.723Z",
+              "WhenOpened": "2024-10-02T15:43:14.317Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Repositories\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "DEPI Final Project\\Repositories\\DepartmentRepository.cs",
+              "ToolTip": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Repositories\\DepartmentRepository.cs",
+              "RelativeToolTip": "DEPI Final Project\\Repositories\\DepartmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T15:43:17.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "DEPI Final Project\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "DEPI Final Project\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAowIkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T15:46:37.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EditDepartmentVM.cs",
+              "DocumentMoniker": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\ViewModels\\DepartmentVM\\EditDepartmentVM.cs",
+              "RelativeDocumentMoniker": "DEPI Final Project\\ViewModels\\DepartmentVM\\EditDepartmentVM.cs",
+              "ToolTip": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\ViewModels\\DepartmentVM\\EditDepartmentVM.cs",
+              "RelativeToolTip": "DEPI Final Project\\ViewModels\\DepartmentVM\\EditDepartmentVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T15:43:28.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IProjectRepository.cs",
+              "DocumentMoniker": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Repositories\\Interfaces\\IProjectRepository.cs",
+              "RelativeDocumentMoniker": "DEPI Final Project\\Repositories\\Interfaces\\IProjectRepository.cs",
+              "ToolTip": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Repositories\\Interfaces\\IProjectRepository.cs",
+              "RelativeToolTip": "DEPI Final Project\\Repositories\\Interfaces\\IProjectRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T15:43:16.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CommonEmployeeVM.cs",
+              "DocumentMoniker": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\ViewModels\\EmployeeVM\\CommonEmployeeVM.cs",
+              "RelativeDocumentMoniker": "DEPI Final Project\\ViewModels\\EmployeeVM\\CommonEmployeeVM.cs",
+              "ToolTip": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\ViewModels\\EmployeeVM\\CommonEmployeeVM.cs",
+              "RelativeToolTip": "DEPI Final Project\\ViewModels\\EmployeeVM\\CommonEmployeeVM.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T15:44:21.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateDepartmentVM.cs",
+              "DocumentMoniker": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\ViewModels\\DepartmentVM\\CreateDepartmentVM.cs",
+              "RelativeDocumentMoniker": "DEPI Final Project\\ViewModels\\DepartmentVM\\CreateDepartmentVM.cs",
+              "ToolTip": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\ViewModels\\DepartmentVM\\CreateDepartmentVM.cs",
+              "RelativeToolTip": "DEPI Final Project\\ViewModels\\DepartmentVM\\CreateDepartmentVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T15:44:40.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CommonDepartmentVM.cs",
+              "DocumentMoniker": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\ViewModels\\DepartmentVM\\CommonDepartmentVM.cs",
+              "RelativeDocumentMoniker": "DEPI Final Project\\ViewModels\\DepartmentVM\\CommonDepartmentVM.cs",
+              "ToolTip": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\ViewModels\\DepartmentVM\\CommonDepartmentVM.cs",
+              "RelativeToolTip": "DEPI Final Project\\ViewModels\\DepartmentVM\\CommonDepartmentVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T15:44:41.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EditEmployeeVM.cs",
+              "DocumentMoniker": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\ViewModels\\EmployeeVM\\EditEmployeeVM.cs",
+              "RelativeDocumentMoniker": "DEPI Final Project\\ViewModels\\EmployeeVM\\EditEmployeeVM.cs",
+              "ToolTip": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\ViewModels\\EmployeeVM\\EditEmployeeVM.cs",
+              "RelativeToolTip": "DEPI Final Project\\ViewModels\\EmployeeVM\\EditEmployeeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T15:37:41.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IDepartmentRepository.cs",
+              "DocumentMoniker": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Repositories\\Interfaces\\IDepartmentRepository.cs",
+              "RelativeDocumentMoniker": "DEPI Final Project\\Repositories\\Interfaces\\IDepartmentRepository.cs",
+              "ToolTip": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Repositories\\Interfaces\\IDepartmentRepository.cs",
+              "RelativeToolTip": "DEPI Final Project\\Repositories\\Interfaces\\IDepartmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T15:43:08.627Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "employees-index.js",
-              "DocumentMoniker": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\wwwroot\\js\\employees-index.js",
-              "RelativeDocumentMoniker": "DEPI Final Project\\wwwroot\\js\\employees-index.js",
-              "ToolTip": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\wwwroot\\js\\employees-index.js",
-              "RelativeToolTip": "DEPI Final Project\\wwwroot\\js\\employees-index.js",
-              "ViewState": "AgIAABEAAAAAAAAAAADwvy4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-10-01T17:34:46.215Z",
-              "EditorCaption": ""
+              "Title": "CreateEmployeeVM.cs",
+              "DocumentMoniker": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\ViewModels\\EmployeeVM\\CreateEmployeeVM.cs",
+              "RelativeDocumentMoniker": "DEPI Final Project\\ViewModels\\EmployeeVM\\CreateEmployeeVM.cs",
+              "ToolTip": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\ViewModels\\EmployeeVM\\CreateEmployeeVM.cs",
+              "RelativeToolTip": "DEPI Final Project\\ViewModels\\EmployeeVM\\CreateEmployeeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T15:41:51.651Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Program.cs",
-              "RelativeDocumentMoniker": "DEPI Final Project\\Program.cs",
-              "ToolTip": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Program.cs",
-              "RelativeToolTip": "DEPI Final Project\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAUwCoAAAAAAAAAAAAAAA==",
+              "Title": "EditDependentVM.cs",
+              "DocumentMoniker": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\ViewModels\\DependentVM\\EditDependentVM.cs",
+              "RelativeDocumentMoniker": "DEPI Final Project\\ViewModels\\DependentVM\\EditDependentVM.cs",
+              "ToolTip": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\ViewModels\\DependentVM\\EditDependentVM.cs",
+              "RelativeToolTip": "DEPI Final Project\\ViewModels\\DependentVM\\EditDependentVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T16:28:20.524Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T15:37:54.246Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "EmployeeProjects.cs",
-              "DocumentMoniker": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Models\\EmployeeProjects.cs",
-              "RelativeDocumentMoniker": "DEPI Final Project\\Models\\EmployeeProjects.cs",
-              "ToolTip": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Models\\EmployeeProjects.cs",
-              "RelativeToolTip": "DEPI Final Project\\Models\\EmployeeProjects.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
+              "Title": "CreateDependentVM.cs",
+              "DocumentMoniker": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\ViewModels\\DependentVM\\CreateDependentVM.cs",
+              "RelativeDocumentMoniker": "DEPI Final Project\\ViewModels\\DependentVM\\CreateDependentVM.cs",
+              "ToolTip": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\ViewModels\\DependentVM\\CreateDependentVM.cs",
+              "RelativeToolTip": "DEPI Final Project\\ViewModels\\DependentVM\\CreateDependentVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T17:55:20.579Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "DEPI Final Project\\Models\\Employee.cs",
-              "ToolTip": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Models\\Employee.cs",
-              "RelativeToolTip": "DEPI Final Project\\Models\\Employee.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAgwBkAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T17:59:39.812Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "FileSettings.cs",
-              "DocumentMoniker": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Settings\\FileSettings.cs",
-              "RelativeDocumentMoniker": "DEPI Final Project\\Settings\\FileSettings.cs",
-              "ToolTip": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Settings\\FileSettings.cs",
-              "RelativeToolTip": "DEPI Final Project\\Settings\\FileSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T16:40:11.752Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "filesize-validator.js",
-              "DocumentMoniker": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\wwwroot\\js\\filesize-validator.js",
-              "RelativeDocumentMoniker": "DEPI Final Project\\wwwroot\\js\\filesize-validator.js",
-              "ToolTip": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\wwwroot\\js\\filesize-validator.js",
-              "RelativeToolTip": "DEPI Final Project\\wwwroot\\js\\filesize-validator.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-10-01T17:34:05.714Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "employee-form.js",
-              "DocumentMoniker": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\wwwroot\\js\\employee-form.js",
-              "RelativeDocumentMoniker": "DEPI Final Project\\wwwroot\\js\\employee-form.js",
-              "ToolTip": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\wwwroot\\js\\employee-form.js",
-              "RelativeToolTip": "DEPI Final Project\\wwwroot\\js\\employee-form.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-10-01T17:32:52.85Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "DEPI Final Project\\Views\\_ViewImports.cshtml",
-              "ToolTip": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "DEPI Final Project\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-01T16:54:25.434Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "libman.json",
-              "DocumentMoniker": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\libman.json",
-              "RelativeDocumentMoniker": "DEPI Final Project\\libman.json",
-              "ToolTip": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\libman.json",
-              "RelativeToolTip": "DEPI Final Project\\libman.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-01T16:52:07.033Z"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "b6e5fb02-7634-4e4c-a81e-001afd0a1dc5",
-        "Display": 1,
-        "X": 294,
-        "Y": 150,
-        "Width": 1194,
-        "Height": 567,
-        "WindowState": 2
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "DEPI Final Project\\Controllers\\EmployeeController.cs",
-              "ToolTip": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "DEPI Final Project\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAG4AAAAAAAAAAAAwwH8AAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T16:46:53.932Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T15:37:51.961Z"
             }
           ]
         }

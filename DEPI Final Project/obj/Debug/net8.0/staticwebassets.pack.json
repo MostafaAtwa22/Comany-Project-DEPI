@@ -5,8 +5,40 @@
       "PackagePath": "staticwebassets\\DEPI Final Project.bundle.scp.css"
     },
     {
+      "Id": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\wwwroot\\assets\\images\\20058fa6-e93e-4ac9-90b3-67cc3169e569.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\20058fa6-e93e-4ac9-90b3-67cc3169e569.jpeg"
+    },
+    {
+      "Id": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\wwwroot\\assets\\images\\2f5e890e-8119-4499-88d1-bd5abfb580ea.png",
+      "PackagePath": "staticwebassets\\assets\\images\\2f5e890e-8119-4499-88d1-bd5abfb580ea.png"
+    },
+    {
+      "Id": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\wwwroot\\assets\\images\\3cd73902-c5d0-41be-b4cd-d9e3394568af.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\3cd73902-c5d0-41be-b4cd-d9e3394568af.jpeg"
+    },
+    {
+      "Id": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\wwwroot\\assets\\images\\48b19f2c-623f-4b2b-a14f-b844832b2159.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\48b19f2c-623f-4b2b-a14f-b844832b2159.jpeg"
+    },
+    {
+      "Id": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\wwwroot\\assets\\images\\6e8c0a05-456e-454d-b399-1eb60947b896.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\6e8c0a05-456e-454d-b399-1eb60947b896.jpeg"
+    },
+    {
+      "Id": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\wwwroot\\assets\\images\\94c79f2a-8082-4e56-8606-808aa61cdb0c.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\94c79f2a-8082-4e56-8606-808aa61cdb0c.jpeg"
+    },
+    {
       "Id": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\wwwroot\\assets\\images\\b7acb613-450e-4f18-8e0d-cbc1a136ea01.jpeg",
       "PackagePath": "staticwebassets\\assets\\images\\b7acb613-450e-4f18-8e0d-cbc1a136ea01.jpeg"
+    },
+    {
+      "Id": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\wwwroot\\assets\\images\\be6c3cd8-14fd-4043-86f5-062426bcec00.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\be6c3cd8-14fd-4043-86f5-062426bcec00.jpeg"
+    },
+    {
+      "Id": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\wwwroot\\assets\\images\\d74cabac-3f5d-4685-b46c-d96f6562163a.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\d74cabac-3f5d-4685-b46c-d96f6562163a.jpeg"
     },
     {
       "Id": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\wwwroot\\assets\\images\\e86625c3-99f7-4a2c-a4fd-7999f03433aa.jpeg",
@@ -39,6 +71,10 @@
     {
       "Id": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\wwwroot\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff2",
       "PackagePath": "staticwebassets\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
     {
       "Id": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\wwwroot\\css\\site.css",

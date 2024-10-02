@@ -25,6 +25,7 @@ namespace DEPI_Final_Project
             builder.Services.AddScoped<IEmployeeRepository, EmployeeRepository>();
             builder.Services.AddScoped<IDepartmentRepository, DepartmentRepository>();
             builder.Services.AddScoped<IProjectRepository, ProjectRepository>();
+            builder.Services.AddScoped<IDependentRepository, DependentRepository>();
 
             builder.Services.AddControllersWithViews();
 

@@ -1,0 +1,49 @@
+﻿@model IEnumerable<Dependent>
+
+@if (!Model.Any())
+{
+    <div class="alert alert-warning mt-5">
+        <h4 class="alert-heading">No Dependents!</h4>
+        <p class="mb-0">No Dependents were added yet.</p>
+    </div>
+}
+else
+{
+    <div class="mt-5">
+        <table class="table table-bordered border-primary">
+            <tbody>
+                @foreach (var dependent in Model)
+                {
+                    <tr class="border-1 border-success">
+                        <td>
+                            <div class="d-flex">
+                                <div class="pe-4">
+                                    <img src="@(!string.IsNullOrEmpty(dependent.Image) ? $"{FileSettings.ImagesPath}/{dependent.Image}" : Url.Content("~/images/placeholder.png"))"
+                                         alt="@dependent.Name"
+                                         style="max-width: 90px" />
+                                </div>
+                                <div class="d-flex flex-column justify-content-center">
+                                    <h4 class="text-light">@dependent.Name</h4>
+                                    <h4 class="text-light">@dependent.Gender</h4>
+                                    <h5>@dependent.Employee?.Name</h5> <!-- Null check for Department -->
+                                </div>
+                            </div>
+                        </td>
+                        <td class="align-middle">
+                            <div class="d-flex justify-content-end">
+                                <a class="btn btn-danger rounded rounded-3 me-2" asp-action="Delete" asp-route-id="@dependent.EmployeeId" asp-route-name="@dependent.Name">
+                                    <i class="bi bi-trash-fill"></i>
+                                </a>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+}
+
+@section Scripts
+{
+    <script src="~/js/employee-index.js" asp-append-version="true"></script>
+}

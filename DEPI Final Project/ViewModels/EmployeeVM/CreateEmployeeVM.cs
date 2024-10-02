@@ -1,7 +1,7 @@
 ﻿using DEPI_Final_Project.Attributes;
 using DEPI_Final_Project.Settings;
 
-namespace DEPI_Final_Project.ViewModels
+namespace DEPI_Final_Project.ViewModels.EmployeeVM
 {
     public class CreateEmployeeVM : CommonEmployeeVM
     {
@@ -9,5 +9,4 @@ namespace DEPI_Final_Project.ViewModels
             MaxFileSize(FileSettings.MaxFileSizeInBytes)]
         public IFormFile Image { get; set; } = default!;
     }
-
 }

@@ -1,0 +1,55 @@
+﻿@model IEnumerable<Department>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<a class="btn btn-secondary btn-lg" asp-action="Create">
+    <i class="bi bi-plus-circle-dotted"></i>
+    Add Department
+</a>
+
+@if (!Model.Any())
+{
+    <div class="alert alert-warning mt-5">
+        <h4 class="alert-heading">No Departments!</h4>
+        <p class="mb-0">No Departments were added yet.</p>
+    </div>
+}
+else
+{
+    <div class="mt-5">
+        <table class="table table-bordered border-primary">
+            <tbody>
+                @foreach (var dept in Model)
+                {
+                    <tr class="border-1 border-success">
+                        <td>
+                            <div class="d-flex">
+                                <div class="d-flex flex-column justify-content-center">
+                                    <h4 class="text-dark">@dept.Name</h4>
+                                    <h4 class="text-dark">@dept.Location</h4>
+                                    <h5>@dept.Manager?.Name</h5> <!-- Null check for Department -->
+                                </div>
+                            </div>
+                        </td>
+                        <td class="align-middle">
+                            <div class="d-flex justify-content-end">
+                                <a class="btn btn-info rounded rounded-3 me-2" asp-action="Edit" asp-route-id="@dept.Id">
+                                    <i class="bi bi-pencil-fill"></i>
+                                </a>
+                                <a class="btn btn-danger rounded rounded-3 me-2" asp-action="Delete" asp-route-id="@dept.Id">
+                                    <i class="bi bi-trash-fill"></i>
+                                </a>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+}
+
+@section Scripts
+{
+    <script src="~/js/employee-index.js" asp-append-version="true"></script>
+}

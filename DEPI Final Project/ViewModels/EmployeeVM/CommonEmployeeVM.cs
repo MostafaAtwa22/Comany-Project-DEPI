@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc.Rendering;
 using System.ComponentModel.DataAnnotations;
 
-namespace DEPI_Final_Project.ViewModels
+namespace DEPI_Final_Project.ViewModels.EmployeeVM
 {
     public class CommonEmployeeVM
     {
@@ -25,11 +25,11 @@ namespace DEPI_Final_Project.ViewModels
 
         public IEnumerable<SelectListItem> GenderSelectList { get; set; } = Enumerable.Empty<SelectListItem>();
 
-            [Required]
-            [Display(Name = "Department")]
-            public int DepartmentId { get; set; }
+        [Required]
+        [Display(Name = "Department")]
+        public int DepartmentId { get; set; }
 
-            public IEnumerable<SelectListItem> Departments { get; set; } = Enumerable.Empty<SelectListItem>();
+        public IEnumerable<SelectListItem> Departments { get; set; } = Enumerable.Empty<SelectListItem>();
 
         [Display(Name = "Projects")]
         public List<int> SelectedProjects { get; set; } = default!;

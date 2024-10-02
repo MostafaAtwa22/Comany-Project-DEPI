@@ -1,12 +1,10 @@
 ﻿using DEPI_Final_Project.Attributes;
 using DEPI_Final_Project.Settings;
 
-namespace DEPI_Final_Project.ViewModels
+namespace DEPI_Final_Project.ViewModels.DependentVM
 {
-    public class EditEmployeeVM : CommonEmployeeVM
+    public class EditDependentVM : CommonDependentVM
     {
-        public int Id { get; set; }
-
         public string? CurrentImage { get; set; }
 
         [AllowedExtensions(FileSettings.AllowedExtensions),

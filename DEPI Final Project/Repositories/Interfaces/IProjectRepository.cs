@@ -1,5 +1,5 @@
 ﻿using DEPI_Final_Project.Models;
-using DEPI_Final_Project.ViewModels;
+using DEPI_Final_Project.ViewModels.ProjectVM;
 using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace DEPI_Final_Project.Repositories.Interfaces
