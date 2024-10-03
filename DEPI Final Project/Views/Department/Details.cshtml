@@ -14,6 +14,26 @@
                     <div class="badge bg-info fs-5 mb-4">@Model.Location</div>
                 </div>
             </div>
+            <a style="padding: 10px; text-align:center; background-color:black; color:white; border: 2px #eee solid; border-radius: 5px; cursor: pointer;"
+               id="DeptId" onclick="GetEmployees(@Model.Id)">Employees</a>
+
+            <a style="padding: 10px; text-align:center; background-color:cyan; color:white; border: 2px #eee solid; border-radius: 5px; cursor: pointer;"
+               id="DeptId" onclick="GetProjects(@Model.Id)">Projects</a>
         </div>
     </div>
 </div>
+
+
+<table class="table table-broder table-hover" style="display:none;" id="Emps">
+</table>
+
+<table class="table table-broder table-hover" style="display:none;" id="Proj">
+</table>
+
+@section Scripts {
+
+    <script src="/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/js/employees-per-department.js"></script>
+    <script src="~/js/projects-per-department.js"></script>
+    <partial name="_ValidationScriptsPartial"></partial>
+}

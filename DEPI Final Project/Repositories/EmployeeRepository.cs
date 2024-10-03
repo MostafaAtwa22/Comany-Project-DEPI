@@ -22,12 +22,12 @@ namespace DEPI_Final_Project.Repositories
         }
 
         public IEnumerable<SelectListItem> GetUnassignedManagers()
-            => _context.Employees
-            .Where(e => !_context.Departments.Any(d => d.ManagerId == e.Id))
-            .Select(d => new SelectListItem { Text = d.Name, Value = d.Id.ToString() })
-            .OrderBy(d => d.Text)
-            .AsNoTracking()
-            .ToList();
+              => _context.Employees
+              .Where(e => !_context.Departments.Any(d => d.ManagerId == e.Id))
+              .Select(d => new SelectListItem { Text = d.Name, Value = d.Id.ToString() })
+              .OrderBy(d => d.Text)
+              .AsNoTracking()
+              .ToList();
 
         public IEnumerable<SelectListItem> GetManagersForEdit(int? currentManagerId)
                 => _context.Employees

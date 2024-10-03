@@ -105,8 +105,16 @@
       "PackagePath": "staticwebassets\\js\\employees-index.js"
     },
     {
+      "Id": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\wwwroot\\js\\employees-per-department.js",
+      "PackagePath": "staticwebassets\\js\\employees-per-department.js"
+    },
+    {
       "Id": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\wwwroot\\js\\filesize-validator.js",
       "PackagePath": "staticwebassets\\js\\filesize-validator.js"
+    },
+    {
+      "Id": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\wwwroot\\js\\projects-per-department.js",
+      "PackagePath": "staticwebassets\\js\\projects-per-department.js"
     },
     {
       "Id": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\wwwroot\\js\\site.js",

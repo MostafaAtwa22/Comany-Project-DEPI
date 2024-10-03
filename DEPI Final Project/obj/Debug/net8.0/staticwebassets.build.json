@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xAF8X/2VdegE/LK+PqgN8pJ9jbQHC3XMIfG6s5833QA=",
+  "Hash": "XI4z2Ixiwr/OppXxaK8COMPrkJ4WM+WSplIv+tGt42Y=",
   "Source": "DEPI Final Project",
   "BasePath": "_content/DEPI Final Project",
   "Mode": "Default",
@@ -530,6 +530,25 @@
       "OriginalItemSpec": "wwwroot\\js\\employees-index.js"
     },
     {
+      "Identity": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\wwwroot\\js\\employees-per-department.js",
+      "SourceId": "DEPI Final Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\wwwroot\\",
+      "BasePath": "_content/DEPI Final Project",
+      "RelativePath": "js/employees-per-department.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\employees-per-department.js"
+    },
+    {
       "Identity": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\wwwroot\\js\\filesize-validator.js",
       "SourceId": "DEPI Final Project",
       "SourceType": "Discovered",
@@ -547,6 +566,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\filesize-validator.js"
+    },
+    {
+      "Identity": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\wwwroot\\js\\projects-per-department.js",
+      "SourceId": "DEPI Final Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\wwwroot\\",
+      "BasePath": "_content/DEPI Final Project",
+      "RelativePath": "js/projects-per-department.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\projects-per-department.js"
     },
     {
       "Identity": "D:\\programming\\DEPI\\DEPI Final Project\\DEPI Final Project\\wwwroot\\js\\site.js",

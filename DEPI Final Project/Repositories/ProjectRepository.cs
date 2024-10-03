@@ -29,7 +29,6 @@ namespace DEPI_Final_Project.Repositories
             .AsNoTracking()
             .ToList();
 
-
         public Project? GetById(int id)
             => _context.Projects
             .Include(e => e.Department)
@@ -64,7 +63,6 @@ namespace DEPI_Final_Project.Repositories
             return affectedRows > 0;
         }
 
-
         public async Task<Project?> Update(EditProjectVM model)
         {
             var project = _context.Projects
@@ -82,6 +80,5 @@ namespace DEPI_Final_Project.Repositories
             await _context.SaveChangesAsync();
             return project;
         }
-
     }
 }

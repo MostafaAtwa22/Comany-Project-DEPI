@@ -1,11 +1,6 @@
-﻿using DEPI_Final_Project.Models;
-using DEPI_Final_Project.Models.Enums;
-using DEPI_Final_Project.Repositories.Interfaces;
-using DEPI_Final_Project.ViewModels;
-using DEPI_Final_Project.ViewModels.DepartmentVM;
+﻿using DEPI_Final_Project.Repositories.Interfaces;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace DEPI_Final_Project.Controllers
 {
@@ -14,12 +9,15 @@ namespace DEPI_Final_Project.Controllers
     {
         private readonly IDepartmentRepository _departmentRepository;
         private readonly IEmployeeRepository _employeeRepository;
+        private readonly IProjectRepository _projectRepository;
 
         public DepartmentController(IDepartmentRepository departmentRepository,
-            IEmployeeRepository employeeRepository)
+            IEmployeeRepository employeeRepository,
+            IProjectRepository projectRepository)
         {
             _departmentRepository = departmentRepository;
             _employeeRepository = employeeRepository;
+            _projectRepository = projectRepository;
         }
 
         [HttpGet]
@@ -111,6 +109,37 @@ namespace DEPI_Final_Project.Controllers
                 return NotFound();
 
             return RedirectToAction(nameof(Index));
+        }
+
+        [HttpGet]
+        public IActionResult GetEmployeesPerDepartment(int deptId)
+        {
+            var employees = _employeeRepository
+                .GetAll()
+                .Where(e => e.DepartmentId == deptId)
+                .Select(e => new
+                {
+                    Name = e.Name,
+                    Age = e.Age,
+                    Salary = e.Salary
+                }).ToList();
+
+            return Json(employees);
+        }
+
+        [HttpGet]
+        public IActionResult GetProjectsPerDepartment(int deptId)
+        {
+            var projects = _projectRepository
+                .GetAll()
+                .Where(p => p.DepartmentId == deptId)
+                .Select(p => new
+                {
+                    Name = p.Name,
+                    Budget = p.Budget,
+                    Location = p.Location,
+                }).ToList();
+            return Json(projects);
         }
     }
 }
